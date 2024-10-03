@@ -52,6 +52,12 @@ Welcome to my repository of Machine Learning and Deep Learning projects! Here yo
 - **Libraries**: TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib.
 - **Tools**: Git, Jupyter Notebooks, Colab
 
+### 8. Stock Market WebApp
+- **Description**: A real-time stock market forecaster that forecasts the price of Pakistani Stocks.
+- **Technologies**: Numpy, Pandas, yfinance, streamlit, plotly
+- **Link To WebApp**: [Stock Market WebApp](https://stock-market-web-suhaib-hamza.streamlit.app/)
+
+
 ## Contributing
 
 Feel free to contribute to any of these projects! Please open an issue or a pull request if you have suggestions or improvements.
